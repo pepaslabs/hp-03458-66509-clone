@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0  Date: Sat 16 Dec 2017 08:05:10 PM CST
+#
+$CMP A
+D Analog ground
+$ENDCMP
+#
+$CMP GND
+K POWER, PWR
+$ENDCMP
+#
+$CMP H
+D Heater ground
+$ENDCMP
+#
+#End Doc Library

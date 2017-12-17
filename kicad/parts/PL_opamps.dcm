@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0  Date: Sat 16 Dec 2017 12:40:59 AM CST
+#
+$CMP INA200
+D High-side current shunt monitor
+$ENDCMP
+#
+$CMP LM358
+D Dual opamp
+$ENDCMP
+#
+$CMP LM741
+D Single opamp
+$ENDCMP
+#
+$CMP LTC2057_10
+D LTC2057, 10-pin version
+$ENDCMP
+#
+$CMP MAX420
+D Chopper opamp
+$ENDCMP
+#
+$CMP NE5532
+D Dual opamp (low noise)
+$ENDCMP
+#
+$CMP OP07
+D Single opamp
+$ENDCMP
+#
+$CMP TL072
+D Low-Noise Dual Op amp (low power)
+$ENDCMP
+#
+$CMP TL082
+D Wide Bandwidth Dual Op amp (Cmos)
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,61 @@
+EESchema-DOCLIB  Version 2.0  Date: Sat 16 Dec 2017 07:53:02 PM CST
+#
+$CMP LINK
+D Jumper link
+K R DEV
+$ENDCMP
+#
+$CMP POT
+D Potentiometer
+K R
+$ENDCMP
+#
+$CMP R
+D Resistor
+K R DEV
+$ENDCMP
+#
+$CMP R_0W25
+D Resistor 1/4W 5% Carbon Film
+K R DEV
+$ENDCMP
+#
+$CMP R_0W25_1PCT
+D Resistor 1/4W 1% Metal Film
+K R DEV
+$ENDCMP
+#
+$CMP R_0W5
+D Resistor 1/2W 5% Carbon Film
+K R DEV
+$ENDCMP
+#
+$CMP R_100ppm
+D Resistor 100ppm/C
+K R DEV
+$ENDCMP
+#
+$CMP R_10ppm
+D Resistor 10ppm/C
+K R DEV
+$ENDCMP
+#
+$CMP R_1W
+D Resistor 1W 5% Carbon Film
+K R DEV
+$ENDCMP
+#
+$CMP R_DIVIDER
+D Resistor divider
+$ENDCMP
+#
+$CMP R_FOIL
+D Metal Foil Precision Resistor
+$ENDCMP
+#
+$CMP R_WW
+D Wirewound Resistor
+K R DEV
+$ENDCMP
+#
+#End Doc Library
