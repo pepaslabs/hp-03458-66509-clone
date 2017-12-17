@@ -1,10 +1,11 @@
-PCBNEW-LibModule-V1  Fri 26 May 2017 11:57:34 PM CDT
+PCBNEW-LibModule-V1  Sun 17 Dec 2017 02:53:36 AM CST
 # encoding utf-8
 Units mm
 $INDEX
 1pin_025_05
 1pin_05_09
 LCBSBM-4-01A-RT
+hole_15
 hole_M3
 hole_M3_2
 hole_M3_NPTH
@@ -59,6 +60,23 @@ DS 12.7 -12.7 12.7 12.7 0.15 24
 DS 12.7 12.7 -12.7 12.7 0.15 24
 DS -12.7 12.7 -12.7 -12.7 0.15 24
 $EndMODULE LCBSBM-4-01A-RT
+$MODULE hole_15
+Po 0 0 0 15 5A363053 00000000 ~~
+Li hole_15
+Cd 0.15" mounting hole
+Sc 0
+AR 1pin
+Op 0 0 0
+T0 0 -3.048 1.016 1.016 0 0.254 N I 21 N "H***"
+T1 0 2.794 1.016 1.016 0 0.254 N I 21 N "Val**"
+$PAD
+Sh "1" C 3.81 3.81 0 0 0
+Dr 3.81 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$EndMODULE hole_15
 $MODULE hole_M3
 Po 0 0 0 15 5929070A 00000000 ~~
 Li hole_M3
