@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Sun 17 Dec 2017 12:25:10 AM CST
+
+BeginCmp
+TimeStamp = /5A35C5D4;
+Reference = C411;
+ValeurCmp = 22nF;
+IdModule  = CAP_AXIAL_059A_05_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35C5B4;
+Reference = C412;
+ValeurCmp = 0.1uF;
+IdModule  = CAP_AXIAL_059A_05_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35C5F9;
+Reference = C413;
+ValeurCmp = 10nF;
+IdModule  = CAP_AXIAL_059A_05_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35C5FF;
+Reference = C414;
+ValeurCmp = 0.1uF;
+IdModule  = CAP_AXIAL_059A_05_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35C6DD;
+Reference = CR400;
+ValeurCmp = 1N4148;
+IdModule  = DIODE_SS_059A_04_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35C6EA;
+Reference = CR401;
+ValeurCmp = 1N4004;
+IdModule  = DIODE_1A_069A_04_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A360D66;
+Reference = J400;
+ValeurCmp = CONN_5X1;
+IdModule  = 4455-N2-5_no_pin_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35C819;
+Reference = J401;
+ValeurCmp = CONN_5X1;
+IdModule  = 4455-N2-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35C88D;
+Reference = Q401;
+ValeurCmp = MJE182;
+IdModule  = TO-220_V_069A;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35CCDD;
+Reference = R413;
+ValeurCmp = 74.25k;
+IdModule  = R_AXIAL_0W25_059A_05_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35CCFE;
+Reference = R415;
+ValeurCmp = 74.25k;
+IdModule  = R_AXIAL_0W25_059A_05_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35CD0B;
+Reference = R416;
+ValeurCmp = 10k;
+IdModule  = R_AXIAL_0W25_059A_05_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35CD18;
+Reference = R417;
+ValeurCmp = 200k;
+IdModule  = R_AXIAL_0W25_059A_05_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35CD28;
+Reference = R418;
+ValeurCmp = 499R;
+IdModule  = R_AXIAL_0W25_059A_05_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35CD2E;
+Reference = R419;
+ValeurCmp = 2.67k;
+IdModule  = R_AXIAL_0W25_059A_05_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35CD34;
+Reference = R420;
+ValeurCmp = 1M;
+IdModule  = R_AXIAL_0W25_059A_05_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35CD3A;
+Reference = R421;
+ValeurCmp = 100k;
+IdModule  = R_AXIAL_0W25_059A_05_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35C56D;
+Reference = U401;
+ValeurCmp = LTZ1000A;
+IdModule  = TO-99_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35CD88;
+Reference = U402;
+ValeurCmp = LT1013;
+IdModule  = DIP8_059A_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35C95E;
+Reference = X411;
+ValeurCmp = 15k;
+IdModule  = R_BOX_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35C975;
+Reference = X412;
+ValeurCmp = 1k;
+IdModule  = R_BOX_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A35C9AF;
+Reference = X414;
+ValeurCmp = 111R;
+IdModule  = R_BOX_PL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A3605E1;
+Reference = X411412;
+ValeurCmp = 15k / 1k;
+IdModule  = R_BOX_DIVIDER_PL;
+EndCmp
+
+EndListe
