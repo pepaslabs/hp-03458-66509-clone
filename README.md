@@ -14,6 +14,14 @@ Order a copy of this board from OSHPark: [link](https://oshpark.com/shared_proje
 - An additional footprint which combines X411 and X412 has been added, supporting the Vishay VHD200 voltage dividers.
 - This board is slightly shorter than the HP board, and fits within a 50x50mm square (which is the cheapest pricing tier for many PCB manufacturers).
 
+## Alignment
+
+I used photo-editing software to align the traces, components, and holes as closely as possible.
+
+![](kicad/releases/v2/alignment/alignment-top-both.jpg)
+
+![](kicad/releases/v2/alignment/alignment-bottom-both.jpg)
+
 ## Thanks
 
 This clone was made possible by the excellent, in-depth articles published by TiN of the EEVBlog forum.  Thanks!
