@@ -3,7 +3,7 @@
   (general
     (links 75)
     (no_connects 0)
-    (area 183.464999 118.694999 233.095001 161.975001)
+    (area 182.498999 118.618 245.93006 161.340001)
     (thickness 1.6)
     (drawings 16)
     (tracks 318)
@@ -1054,14 +1054,14 @@
     )
   )
 
-  (module TEST_SMD_02 (layer B.Cu) (tedit 5A3734A7) (tstamp 5A376524)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A375207) (tstamp 5A376524)
     (at 231.14 122.555)
     (descr "Test point, SMD, 0.05\"")
-    (fp_text reference TEST_SMD_05 (at 0 -1.905) (layer B.SilkS) hide
-      (effects (font (size 0.762 0.762) (thickness 0.1524)) (justify mirror))
+    (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
+      (effects (font (size 0.762 0.762) (thickness 0.1524)))
     )
-    (fp_text value VAL** (at 0 1.905) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (fp_text value VAL** (at 0 -1.905) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
       (layers B.Cu B.Paste B.Mask)
@@ -1069,14 +1069,14 @@
     )
   )
 
-  (module TEST_SMD_02 (layer B.Cu) (tedit 5A3734C8) (tstamp 5A37652D)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A37521F) (tstamp 5A37652D)
     (at 231.14 125.095)
     (descr "Test point, SMD, 0.05\"")
-    (fp_text reference TEST_SMD_05 (at 0 -1.905) (layer B.SilkS) hide
-      (effects (font (size 0.762 0.762) (thickness 0.1524)) (justify mirror))
+    (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
+      (effects (font (size 0.762 0.762) (thickness 0.1524)))
     )
-    (fp_text value VAL** (at 0 1.905) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (fp_text value VAL** (at 0 -1.905) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
       (layers B.Cu B.Paste B.Mask)
@@ -1084,14 +1084,14 @@
     )
   )
 
-  (module TEST_SMD_02 (layer B.Cu) (tedit 5A3734E8) (tstamp 5A376552)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A37532A) (tstamp 5A376552)
     (at 215.9 125.095)
     (descr "Test point, SMD, 0.05\"")
-    (fp_text reference TEST_SMD_05 (at 0 -1.905) (layer B.SilkS) hide
-      (effects (font (size 0.762 0.762) (thickness 0.1524)) (justify mirror))
+    (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
+      (effects (font (size 0.762 0.762) (thickness 0.1524)))
     )
-    (fp_text value VAL** (at 0 1.905) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (fp_text value VAL** (at 0 -1.905) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
       (layers B.Cu B.Paste B.Mask)
@@ -1099,14 +1099,14 @@
     )
   )
 
-  (module TEST_SMD_02 (layer B.Cu) (tedit 5A37351C) (tstamp 5A376591)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A3753C7) (tstamp 5A376591)
     (at 213.36 122.555)
     (descr "Test point, SMD, 0.05\"")
-    (fp_text reference TEST_SMD_05 (at 0 -1.905) (layer B.SilkS) hide
-      (effects (font (size 0.762 0.762) (thickness 0.1524)) (justify mirror))
+    (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
+      (effects (font (size 0.762 0.762) (thickness 0.1524)))
     )
-    (fp_text value VAL** (at 0 1.905) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (fp_text value VAL** (at 0 -1.905) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
       (layers B.Cu B.Paste B.Mask)
@@ -1114,7 +1114,7 @@
     )
   )
 
-  (module TEST_SMD_02 (layer F.Cu) (tedit 5A370374) (tstamp 5A3765B0)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A3753BB) (tstamp 5A3765B0)
     (at 210.82 122.555)
     (descr "Test point, SMD, 0.05\"")
     (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
@@ -1124,12 +1124,12 @@
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
-      (layers B.Cu F.Paste F.Mask)
+      (layers B.Cu B.Paste B.Mask)
       (net 2 +18H)
     )
   )
 
-  (module TEST_SMD_02 (layer F.Cu) (tedit 5A37037F) (tstamp 5A3765B9)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A3753B2) (tstamp 5A3765B9)
     (at 208.28 122.555)
     (descr "Test point, SMD, 0.05\"")
     (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
@@ -1139,12 +1139,12 @@
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
-      (layers B.Cu F.Paste F.Mask)
+      (layers B.Cu B.Paste B.Mask)
       (net 4 -15)
     )
   )
 
-  (module TEST_SMD_02 (layer F.Cu) (tedit 5A370393) (tstamp 5A3765C2)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A3753AB) (tstamp 5A3765C2)
     (at 205.74 122.555)
     (descr "Test point, SMD, 0.05\"")
     (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
@@ -1154,12 +1154,12 @@
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
-      (layers B.Cu F.Paste F.Mask)
+      (layers B.Cu B.Paste B.Mask)
       (net 5 "H GND")
     )
   )
 
-  (module TEST_SMD_02 (layer F.Cu) (tedit 5A37042F) (tstamp 5A3765CB)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A3753A1) (tstamp 5A3765CB)
     (at 200.025 122.555)
     (descr "Test point, SMD, 0.05\"")
     (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
@@ -1169,12 +1169,12 @@
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
-      (layers B.Cu F.Paste F.Mask)
+      (layers B.Cu B.Paste B.Mask)
       (net 1 +18)
     )
   )
 
-  (module TEST_SMD_02 (layer F.Cu) (tedit 5A37045B) (tstamp 5A376603)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A3752F0) (tstamp 5A376603)
     (at 226.06 132.715)
     (descr "Test point, SMD, 0.05\"")
     (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
@@ -1184,12 +1184,12 @@
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
-      (layers B.Cu F.Paste F.Mask)
+      (layers B.Cu B.Paste B.Mask)
       (net 8 "J401 (1)")
     )
   )
 
-  (module TEST_SMD_02 (layer F.Cu) (tedit 5A370465) (tstamp 5A37660C)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A375301) (tstamp 5A37660C)
     (at 223.52 132.715)
     (descr "Test point, SMD, 0.05\"")
     (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
@@ -1199,19 +1199,19 @@
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
-      (layers B.Cu F.Paste F.Mask)
+      (layers B.Cu B.Paste B.Mask)
       (net 2 +18H)
     )
   )
 
-  (module TEST_SMD_02 (layer B.Cu) (tedit 5A373502) (tstamp 5A376625)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A375339) (tstamp 5A376625)
     (at 218.44 127.635)
     (descr "Test point, SMD, 0.05\"")
-    (fp_text reference TEST_SMD_05 (at 0 -1.905) (layer B.SilkS) hide
-      (effects (font (size 0.762 0.762) (thickness 0.1524)) (justify mirror))
+    (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
+      (effects (font (size 0.762 0.762) (thickness 0.1524)))
     )
-    (fp_text value VAL** (at 0 1.905) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (fp_text value VAL** (at 0 -1.905) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
       (layers B.Cu B.Paste B.Mask)
@@ -1219,7 +1219,7 @@
     )
   )
 
-  (module TEST_SMD_02 (layer F.Cu) (tedit 5A37054A) (tstamp 5A37663F)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A375393) (tstamp 5A37663F)
     (at 200.66 155.575)
     (descr "Test point, SMD, 0.05\"")
     (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
@@ -1229,12 +1229,12 @@
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
-      (layers B.Cu F.Paste F.Mask)
+      (layers B.Cu B.Paste B.Mask)
       (net 6 "J400 (1)")
     )
   )
 
-  (module TEST_SMD_02 (layer F.Cu) (tedit 5A3705C0) (tstamp 5A37668A)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A37538A) (tstamp 5A37668A)
     (at 203.2 158.115)
     (descr "Test point, SMD, 0.05\"")
     (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
@@ -1244,11 +1244,11 @@
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
-      (layers B.Cu F.Paste F.Mask)
+      (layers B.Cu B.Paste B.Mask)
     )
   )
 
-  (module TEST_SMD_02 (layer F.Cu) (tedit 5A37061B) (tstamp 5A37665E)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A375383) (tstamp 5A37665E)
     (at 205.74 158.115)
     (descr "Test point, SMD, 0.05\"")
     (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
@@ -1258,12 +1258,12 @@
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
-      (layers B.Cu F.Paste F.Mask)
+      (layers B.Cu B.Paste B.Mask)
       (net 7 "J400 (2)")
     )
   )
 
-  (module TEST_SMD_02 (layer F.Cu) (tedit 5A370635) (tstamp 5A376668)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A375374) (tstamp 5A376668)
     (at 210.82 158.115)
     (descr "Test point, SMD, 0.05\"")
     (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
@@ -1273,12 +1273,12 @@
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
-      (layers B.Cu F.Paste F.Mask)
+      (layers B.Cu B.Paste B.Mask)
       (net 3 +7)
     )
   )
 
-  (module TEST_SMD_02 (layer F.Cu) (tedit 5A373585) (tstamp 5A3766A3)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A375311) (tstamp 5A3766A3)
     (at 228.6 142.875)
     (descr "Test point, SMD, 0.05\"")
     (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
@@ -1288,12 +1288,12 @@
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
-      (layers B.Cu F.Paste F.Mask)
+      (layers B.Cu B.Paste B.Mask)
       (net 9 N-000001)
     )
   )
 
-  (module TEST_SMD_02 (layer F.Cu) (tedit 5A370711) (tstamp 5A3766AC)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A37531B) (tstamp 5A3766AC)
     (at 226.06 142.875)
     (descr "Test point, SMD, 0.05\"")
     (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
@@ -1303,7 +1303,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
-      (layers B.Cu F.Paste F.Mask)
+      (layers B.Cu B.Paste B.Mask)
       (net 13 N-000002)
     )
   )
@@ -1388,14 +1388,14 @@
       (xy -1.51384 2.24536)) (layer F.SilkS) (width 0.00254))
   )
 
-  (module TEST_SMD_02 (layer B.Cu) (tedit 5A374A55) (tstamp 5A37CC16)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A375365) (tstamp 5A37CC16)
     (at 215.9 153.035)
     (descr "Test point, SMD, 0.05\"")
-    (fp_text reference TEST_SMD_05 (at 0 -1.905) (layer B.SilkS) hide
-      (effects (font (size 0.762 0.762) (thickness 0.1524)) (justify mirror))
+    (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
+      (effects (font (size 0.762 0.762) (thickness 0.1524)))
     )
-    (fp_text value VAL** (at 0 1.905) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (fp_text value VAL** (at 0 -1.905) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
       (layers B.Cu B.Paste B.Mask)
@@ -1403,14 +1403,14 @@
     )
   )
 
-  (module TEST_SMD_02 (layer B.Cu) (tedit 5A374A36) (tstamp 5A37CC1F)
+  (module TEST_SMD_02 (layer F.Cu) (tedit 5A37534C) (tstamp 5A37CC1F)
     (at 215.9 147.955)
     (descr "Test point, SMD, 0.05\"")
-    (fp_text reference TEST_SMD_05 (at 0 -1.905) (layer B.SilkS) hide
-      (effects (font (size 0.762 0.762) (thickness 0.1524)) (justify mirror))
+    (fp_text reference TEST_SMD_05 (at 0 1.905) (layer F.SilkS) hide
+      (effects (font (size 0.762 0.762) (thickness 0.1524)))
     )
-    (fp_text value VAL** (at 0 1.905) (layer B.SilkS) hide
-      (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+    (fp_text value VAL** (at 0 -1.905) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 smd circle (at 0 0) (size 1.27 1.27)
       (layers B.Cu B.Paste B.Mask)
@@ -1540,7 +1540,7 @@
   (segment (start 213.995 122.555) (end 207.01 122.555) (width 0.254) (layer F.Cu) (net 5) (tstamp 5A367F34))
   (segment (start 216.535 124.46) (end 213.995 122.555) (width 0.254) (layer F.Cu) (net 5) (tstamp 5A367F33))
   (segment (start 213.995 153.67) (end 201.93 153.67) (width 0.254) (layer B.Cu) (net 6) (tstamp 5A37CCA2))
-  (segment (start 215.9 153.035) (end 216.535 152.4) (width 0.254) (layer B.Cu) (net 6) (tstamp 5A37CC9E) (status 400000))
+  (segment (start 215.9 153.035) (end 216.535 152.4) (width 0.254) (layer B.Cu) (net 6) (tstamp 5A37CC9E))
   (segment (start 221.615 152.4) (end 222.358949 152.291051) (width 0.254) (layer B.Cu) (net 6) (tstamp 5A37CC8A))
   (segment (start 216.535 152.4) (end 221.615 152.4) (width 0.254) (layer B.Cu) (net 6) (tstamp 5A37CC9F))
   (segment (start 222.358949 152.291051) (end 219.71 154.305) (width 0.254) (layer B.Cu) (net 6) (tstamp 5A37CC91))
