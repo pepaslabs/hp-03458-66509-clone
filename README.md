@@ -2,11 +2,11 @@
 
 A clone of the LTZ1000-based A9 reference board (part number 03458-66509) as used in the the HP 3458A 8.5-digit multimeter.
 
-![](kicad/releases/v1/top.png)
+![](kicad/releases/v2/top.png)
 
-![](kicad/releases/v1/bottom.png)
+![](kicad/releases/v2/bottom.png)
 
-Order a copy of this board from OSHPark: [link](https://oshpark.com/shared_projects/fXEO68Tb)
+Order a copy of this board from OSHPark: [link](https://oshpark.com/shared_projects/jP5xkfJy)
 
 ## Differences between this clone and the official HP board
 
