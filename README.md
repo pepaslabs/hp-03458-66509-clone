@@ -6,6 +6,10 @@ A clone of the LTZ1000-based A9 reference board (part number 03458-66509) as use
 
 ![](kicad/releases/v2/bottom-large.png)
 
+![](kicad/releases/v2/top-kicad.png)
+
+![](kicad/releases/v2/bottom-kicad.png)
+
 Order a copy of this board from OSHPark: [link](https://oshpark.com/shared_projects/jP5xkfJy)
 
 ## Differences between this clone and the official HP board
