@@ -14,6 +14,12 @@ Order a copy of this board from OSHPark: [link](https://oshpark.com/shared_proje
 - An additional footprint which combines X411 and X412 has been added, supporting the Vishay VHD200 voltage dividers.
 - This board is slightly shorter than the HP board, and fits within a 50x50mm square (which is the cheapest pricing tier for many PCB manufacturers).
 
+## Thanks
+
+This clone was made possible by the excellent, in-depth articles published by TiN of the EEVBlog forum.  Thanks!
+- https://xdevs.com/article/volt_xfer/
+- https://xdevs.com/fix/hp3458a/#a9pcba
+
 ## Bill of Materials
 
 - Molex 22-17-2052: [link](https://www.mouser.com/ProductDetail/Molex/22-17-2052/?qs=sGAEpiMZZMs%252bGHln7q6pm%252bS0pk2Wo0XxllCQVBT5EJg%3D)
